@@ -1,3 +1,9 @@
+---
+next:
+  text: "Modifiers di Jetpack Compose"
+  link: "./d_modifier"
+---
+
 # UI Layouts di Jetpack Compose
 
 ## Pengertian UI Layouts

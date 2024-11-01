@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Raion Academy 2024 - Mobile Developer Path",
+  title: "Raion Academy 2024 - Mobile Developer Learning Path",
   description: "Introduction to Kotlin and Jetpack Compose.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

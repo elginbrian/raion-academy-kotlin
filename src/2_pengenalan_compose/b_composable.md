@@ -1,3 +1,9 @@
+---
+next:
+  text: "UI Layouts di Jetpack Compose"
+  link: "./c_ui_layout"
+---
+
 # Composable Function di Jetpack Compose
 
 ## Pengertian Composable Function
