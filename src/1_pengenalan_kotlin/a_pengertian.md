@@ -1,7 +1,7 @@
 ---
 next:
   text: "Variabel dan Tipe Data di Kotlin"
-  link: ".vitepress/src/1_pengenalan_kotlin/b_variabel"
+  link: "src/1_pengenalan_kotlin/b_variabel"
 ---
 
 # Pengenalan Kotlin: Pengertian dan Sejarah
