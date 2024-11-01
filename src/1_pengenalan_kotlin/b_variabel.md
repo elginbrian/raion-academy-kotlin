@@ -1,3 +1,9 @@
+---
+next:
+  text: "Function di Kotlin"
+  link: "./c_function"
+---
+
 # Variabel dan Tipe Data di Kotlin
 
 ## Variabel di Kotlin
