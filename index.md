@@ -14,8 +14,8 @@ hero:
       text: Jetpack Compose Official Website
       link: https://developer.android.com/compose
     - theme: alt
-      text: Additional Resources (Notion)
-      link: https://adhesive-eggnog-eca.notion.site/Kotlin-Fundamental-16b2b31e67b447209bc53c8095e363e0
+      text: Kotlin Playground
+      link: https://play.kotlinlang.org/
 
 features:
   - icon: 📱
@@ -52,22 +52,64 @@ features:
 <br>
 
 ::: tip FINAL PROJECT 🌟
-Selamat datang di tahap akhir perjalanan Raion Academy! Di sini, kamu akan menemukan ketentuan dan detail untuk mengumpulkan project akhirmu. Pastikan kamu membaca persyaratannya dengan teliti dan jangan lupa mengumpulkan proyekmu tepat waktu, ya!
+Selamat datang di tahap akhir perjalanan Raion Academy! Di sini, kamu akan menemukan ketentuan dan benefit dari mengerjakan project akhirmu. Pastikan kamu membaca persyaratannya dengan teliti dan jangan lupa mengumpulkan proyekmu tepat waktu, ya!
 :::
 
-::: details Ketentuan Project Akhir
+::: details Ketentuan Final Project 📄
 
-```
-Sabar boss... belum di push
-```
+### ShopEase🛍
+
+<br>
+
+##### Deskripsi
+
+Aplikasi belanja yang memudahkan pengguna untuk melihat produk menggunakan **Fake Store API**.
+
+##### Latar Belakang
+
+Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa membantu dia menemukan produk dengan mudah. Aplikasi ini harus menampilkan detail produk dan memiliki navigasi yang user-friendly. Tugas Anda adalah mengembangkan aplikasi **ShopEase** secara bertahap, di mana setiap level akan menambahkan fitur baru.
+
+---
+
+### Milestone
+
+<br>
+
+##### Level 1: Layout Sederhana (5 Point)
+
+- **Kasus**: Alex ingin melihat daftar produk dengan tampilan yang menarik.
+- **Tugas**: Buat tampilan awal aplikasi yang sederhana, yang hanya menampilkan nama dan gambar produk tanpa interaksi apapun.
+
+##### Level 2: State Management (10 Point)
+
+- **Kasus**: Setelah melihat daftar produk, Alex ingin bisa menambahkan produk ke dalam keranjang belanja.
+- **Tugas**: Tambahkan manajemen state untuk mengelola jumlah produk yang ditambahkan ke keranjang, sehingga pengalaman belanja jadi lebih interaktif.
+
+##### Level 3: Navigasi Antar Layar (15 Point)
+
+- **Kasus**: Alex ingin tahu lebih banyak tentang produk yang menarik perhatiannya.
+- **Tugas**: Buat layar detail produk yang menunjukkan informasi lengkap dan tambahkan navigasi antara layar beranda dan layar detail.
+
+##### Level 4: Fetch API (50 Point)
+
+- **Kasus**: Alex merasa kesulitan menemukan produk yang pas dan berharap aplikasi bisa menampilkan produk dari internet.
+- **Tugas**: Ambil data produk dari **Fake Store API** dan tampilkan di aplikasi, plus tambahkan loading indicator dan exception handling saat mengambil data.
+
+##### Level 5: Dependency Injection (10 Point)
+
+- **Kasus**: Alex ingin aplikasi yang stabil dan mudah dirawat.
+- **Tugas**: Gunakan **Koin** atau **Hilt** untuk mengelola dependensi dalam aplikasi, agar struktur aplikasi lebih baik dan mudah untuk dipelihara.
 
 :::
 
-::: details Pengumpulan Project Akhir
+::: details Benefit Mengerjakan Final Project 🎁
 
-```
-Sabar boss... belum di push
-```
+<br>
+
+##### Best Team 🤝
+
+- Tim dengan hasil akhir project paling bagus bakal dapat hadiah **duit**. Siapa yang nggak mau, kan?
+- Tiap anggota dari best team juga bakal **ditandain** pas open recruitment Raion divisi programmer apps nanti.
 
 :::
 

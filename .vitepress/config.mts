@@ -6,7 +6,10 @@ export default defineConfig({
   description: "Introduction to Kotlin and Jetpack Compose.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [{ text: "Home", link: "/" }],
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "Additional Resources", link: "https://adhesive-eggnog-eca.notion.site/Kotlin-Fundamental-16b2b31e67b447209bc53c8095e363e0" },
+    ],
 
     sidebar: [
       {
@@ -59,6 +62,9 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+    socialLinks: [
+      { icon: "instagram", link: "https://www.instagram.com/raion_community/" },
+      { icon: "linkedin", link: "https://www.linkedin.com/company/raioncommunity/" },
+    ],
   },
 });
