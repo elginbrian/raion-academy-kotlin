@@ -1,3 +1,9 @@
+---
+next:
+  text: "Repository Pattern"
+  link: "./c_repository"
+---
+
 # API Interface dengan Retrofit
 
 ## Pengertian Retrofit

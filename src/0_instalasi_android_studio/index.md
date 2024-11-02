@@ -1,3 +1,9 @@
+---
+next:
+  text: "Variabel dan Tipe Data di Kotlin"
+  link: "https://raion-academy-2024.vercel.app/src/1_pengenalan_kotlin/a_pengertian"
+---
+
 # Instalasi Android Studio
 
 ## Video Tutorial

@@ -1,3 +1,9 @@
+---
+next:
+  text: "ViewModel Pattern"
+  link: "./d_viewmodel"
+---
+
 # Repository Pattern
 
 ## Pengertian Repository Pattern

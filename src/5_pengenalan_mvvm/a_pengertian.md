@@ -1,3 +1,9 @@
+---
+next:
+  text: "API Interface dengan Retrofit"
+  link: "./b_api_interface"
+---
+
 # Pengertian MVVM
 
 ## Apa itu MVVM?

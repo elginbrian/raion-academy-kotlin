@@ -1,3 +1,9 @@
+---
+next:
+  text: "State Hoisting"
+  link: "./b_hoisting"
+---
+
 # Pengenalan State di Jetpack Compose
 
 ## Pengertian State

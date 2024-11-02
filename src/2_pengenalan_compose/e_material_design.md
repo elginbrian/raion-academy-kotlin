@@ -1,3 +1,9 @@
+---
+next:
+  text: "Pengertian State"
+  link: "https://raion-academy-2024.vercel.app/src/3_pengenalan_state/a_state"
+---
+
 # Material Design Components di Jetpack Compose
 
 ## Pengertian Material Design

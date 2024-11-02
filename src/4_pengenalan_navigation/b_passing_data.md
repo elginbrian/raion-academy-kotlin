@@ -1,3 +1,9 @@
+---
+next:
+  text: "Pengertian MVVM"
+  link: "https://raion-academy-2024.vercel.app/src/5_pengenalan_mvvm/a_pengertian"
+---
+
 # Passing Data Between Screens dalam Jetpack Compose
 
 ## Pengertian Passing Data

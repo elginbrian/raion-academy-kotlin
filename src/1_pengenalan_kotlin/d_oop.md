@@ -1,3 +1,9 @@
+---
+next:
+  text: "Pengertian dan Sejarah Jetpack Compose"
+  link: "https://raion-academy-2024.vercel.app/src/2_pengenalan_compose/a_pengertian"
+---
+
 # Pemrograman Berorientasi Objek (OOP) di Kotlin
 
 ## Pengertian OOP

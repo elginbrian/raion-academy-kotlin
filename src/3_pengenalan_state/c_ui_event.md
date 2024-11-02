@@ -1,3 +1,9 @@
+---
+next:
+  text: "Setup Navigation"
+  link: "https://raion-academy-2024.vercel.app/src/4_pengenalan_navigation/a_setup"
+---
+
 # UI Events dalam Jetpack Compose
 
 ## Pengertian UI Events

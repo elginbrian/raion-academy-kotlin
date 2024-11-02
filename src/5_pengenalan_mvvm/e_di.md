@@ -1,3 +1,9 @@
+---
+next:
+  text: "Home"
+  link: "https://raion-academy-2024.vercel.app"
+---
+
 # Dependency Injection dengan Koin
 
 ## Pengertian Dependency Injection
