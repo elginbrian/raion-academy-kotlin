@@ -66,5 +66,9 @@ export default defineConfig({
       { icon: "instagram", link: "https://www.instagram.com/raion_community/" },
       { icon: "linkedin", link: "https://www.linkedin.com/company/raioncommunity/" },
     ],
+
+    search: {
+      provider: "local",
+    },
   },
 });
