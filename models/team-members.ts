@@ -6,6 +6,7 @@ export const members = [
     links: [
       { icon: "github", link: "https://github.com/elginbrian" },
       { icon: "linkedin", link: "https://www.linkedin.com/in/elginbrian/" },
+      { icon: "instagram", link: "https://www.instagram.com/_elginbrian/" },
     ],
   },
   {
@@ -15,6 +16,7 @@ export const members = [
     links: [
       { icon: "github", link: "https://github.com/Meouz" },
       { icon: "linkedin", link: "https://www.linkedin.com/in/samuel-alfito/" },
+      { icon: "instagram", link: "https://www.instagram.com/samuel.alfito/" },
     ],
   },
 ];
