@@ -98,7 +98,7 @@ Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa memba
 ##### Level 5: Dependency Injection (10 Point)
 
 - **Kasus**: Alex ingin aplikasi yang stabil dan mudah dirawat.
-- **Tugas**: Gunakan **Koin** atau **Hilt** untuk mengelola dependensi dalam aplikasi, agar struktur aplikasi lebih baik dan mudah untuk dipelihara.
+- **Tugas**: Gunakan **Koin** untuk mengelola dependensi dalam aplikasi, agar struktur aplikasi lebih baik dan mudah untuk dimaintain.
 
 :::
 
@@ -113,7 +113,35 @@ Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa memba
 
 :::
 
-<br>
+## Explore Lebih Lanjut! 📺
+
+<div class="video-container">
+  <iframe width="300" height="170" src="https://www.youtube.com/embed/6_wK_Ud8--0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="170" src="https://www.youtube.com/embed/FIEnIBq7Ups" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="170" src="https://www.youtube.com/embed/bOd3wO0uFr8" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="170" src="https://www.youtube.com/embed/zCIfBbm06QM" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="170" src="https://www.youtube.com/embed/ek682t-z2gQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<style>
+  .video-container {
+    display: flex;
+    overflow-x: auto; 
+    gap: 16px;
+    padding: 16px 0;
+  }
+
+  .video-container iframe {
+    flex: 0 0 auto;
+  }
+
+  .video-container::-webkit-scrollbar {
+    display: none; 
+  }
+
+</style>
+
+<hr>
 
 # Connect with us!
 
