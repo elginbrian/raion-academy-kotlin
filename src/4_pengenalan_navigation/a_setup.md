@@ -6,9 +6,6 @@ next:
 
 # Setup Navigation dalam Jetpack Compose
 
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FIEnIBq7Ups" frameborder="0" allowfullscreen></iframe>
-
 ## Pengertian Navigation
 
 Navigation dalam Jetpack Compose adalah mekanisme yang memungkinkan pengguna berpindah antara berbagai layar (screens) dalam aplikasi. Pengelolaan navigasi yang baik sangat penting untuk pengalaman pengguna yang intuitif dan lancar. Jetpack Compose menyediakan pustaka navigasi yang mudah digunakan dan fleksibel, memungkinkan pengembang untuk mengatur alur navigasi dengan cara yang deklaratif.

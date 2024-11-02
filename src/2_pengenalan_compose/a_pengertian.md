@@ -6,10 +6,6 @@ next:
 
 # Pengertian dan Sejarah Jetpack Compose
 
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6_wK_Ud8--0" frameborder="0" allowfullscreen></iframe>
-
 ## Pengertian Jetpack Compose
 
 Jetpack Compose adalah toolkit modern dan deklaratif untuk membangun antarmuka pengguna (UI) di aplikasi Android. Dikembangkan oleh Google, Jetpack Compose mempermudah dan mempercepat pengembangan UI dengan pendekatan berbasis fungsi deklaratif. Ini berarti Anda dapat mendefinisikan UI Anda dengan menyatakan bagaimana seharusnya tampil, dan Jetpack Compose akan menangani rendering serta perubahan UI secara efisien.
