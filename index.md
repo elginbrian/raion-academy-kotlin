@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Raion Academy 2024 🦁"
+  name: "RAION ACADEMY\n2024 🦁"
   text: ""
   tagline: Mobile Development Learning Path.
   actions:
@@ -21,7 +21,7 @@ features:
   - icon: 📱
     title: Instalasi Android Studio
     details: Android Studio adalah IDE resmi dari Google untuk mengembangkan aplikasi Android.
-    link: ./
+    link: ./src/0_instalasi_android_studio
 
   - icon: 💜
     title: Pengenalan Kotlin

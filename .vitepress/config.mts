@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Raion Academy 2024",
+  title: "RAION ACADEMY 2024",
   description: "Introduction to Kotlin and Jetpack Compose.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -11,7 +11,7 @@ export default defineConfig({
     sidebar: [
       {
         text: "Instalasi Android Studio 📱",
-        link: "",
+        link: "https://raion-academy-2024.vercel.app/src/0_instalasi_android_studio",
       },
       {
         text: "Pengenalan Kotlin 💜",
