@@ -113,7 +113,7 @@ Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa memba
 
 :::
 
-## Explore Lebih Lanjut! 📺
+<!-- ## Explore Lebih Lanjut! 📺
 
 <div class="video-container">
   <iframe width="300" height="170" src="https://www.youtube.com/embed/6_wK_Ud8--0" frameborder="0" allowfullscreen></iframe>
@@ -126,7 +126,7 @@ Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa memba
 <style>
   .video-container {
     display: flex;
-    overflow-x: auto; 
+    overflow-x: auto;
     gap: 16px;
     padding: 16px 0;
   }
@@ -136,12 +136,12 @@ Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa memba
   }
 
   .video-container::-webkit-scrollbar {
-    display: none; 
+    display: none;
   }
 
 </style>
 
-<hr>
+<hr> -->
 
 # Connect with us!
 
