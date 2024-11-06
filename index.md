@@ -90,7 +90,7 @@ Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa memba
 - **Kasus**: Alex ingin tahu lebih banyak tentang produk yang menarik perhatiannya.
 - **Tugas**: Buat layar detail produk yang menunjukkan informasi lengkap dan tambahkan navigasi antara layar beranda dan layar detail.
 
-##### Level 4: Fetch API (50 Point)
+<!-- ##### Level 4: Fetch API (50 Point)
 
 - **Kasus**: Alex merasa kesulitan menemukan produk yang pas dan berharap aplikasi bisa menampilkan produk dari internet.
 - **Tugas**: Ambil data produk dari **Fake Store API** dan tampilkan di aplikasi, plus tambahkan loading indicator dan exception handling saat mengambil data.
@@ -98,7 +98,7 @@ Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa memba
 ##### Level 5: Dependency Injection (10 Point)
 
 - **Kasus**: Alex ingin aplikasi yang stabil dan mudah dirawat.
-- **Tugas**: Gunakan **Koin** untuk mengelola dependensi dalam aplikasi, agar struktur aplikasi lebih baik dan mudah untuk dimaintain.
+- **Tugas**: Gunakan **Koin** untuk mengelola dependensi dalam aplikasi, agar struktur aplikasi lebih baik dan mudah untuk dimaintain. -->
 
 :::
 
