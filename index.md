@@ -77,28 +77,21 @@ Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa memba
 
 ##### Level 1: Layout Sederhana (5 Point)
 
-- **Kasus**: Alex ingin melihat daftar produk dengan tampilan yang menarik.
-- **Tugas**: Buat tampilan awal aplikasi yang sederhana, yang hanya menampilkan nama dan gambar produk tanpa interaksi apapun.
+- **Kasus** : Alex ingin melihat daftar produk dengan tampilan yang menarik.
+- **Tugas** : Buat halaman awal aplikasi yang sederhana dengan nama `HomeScreen`, yang hanya menampilkan nama dan gambar produk tanpa interaksi apapun.
+- **Video** : (letakkan link video disini)
 
 ##### Level 2: State Management (10 Point)
 
-- **Kasus**: Setelah melihat daftar produk, Alex ingin bisa menambahkan produk ke dalam keranjang belanja.
-- **Tugas**: Tambahkan manajemen state untuk mengelola jumlah produk yang ditambahkan ke keranjang, sehingga pengalaman belanja jadi lebih interaktif.
+- **Kasus** : Setelah melihat daftar produk, Alex ingin bisa menambahkan produk ke dalam keranjang belanja.
+- **Tugas** : Tambahkan `state management` untuk mengelola jumlah produk yang ditambahkan ke keranjang, sehingga pengalaman belanja jadi lebih interaktif.
+- **Video** : (letakkan link video disini)
 
 ##### Level 3: Navigasi Antar Layar (15 Point)
 
-- **Kasus**: Alex ingin tahu lebih banyak tentang produk yang menarik perhatiannya.
-- **Tugas**: Buat layar detail produk yang menunjukkan informasi lengkap dan tambahkan navigasi antara layar beranda dan layar detail.
-
-<!-- ##### Level 4: Fetch API (50 Point)
-
-- **Kasus**: Alex merasa kesulitan menemukan produk yang pas dan berharap aplikasi bisa menampilkan produk dari internet.
-- **Tugas**: Ambil data produk dari **Fake Store API** dan tampilkan di aplikasi, plus tambahkan loading indicator dan exception handling saat mengambil data.
-
-##### Level 5: Dependency Injection (10 Point)
-
-- **Kasus**: Alex ingin aplikasi yang stabil dan mudah dirawat.
-- **Tugas**: Gunakan **Koin** untuk mengelola dependensi dalam aplikasi, agar struktur aplikasi lebih baik dan mudah untuk dimaintain. -->
+- **Kasus** : Alex ingin tahu lebih banyak tentang produk yang menarik perhatiannya.
+- **Tugas** : Buat `DetailScreen` produk yang menunjukkan informasi lengkap dan tambahkan navigasi antara `HomeScreen` dan `DetailScreen`.
+- **Video** : (letakkan link video disini)
 
 :::
 
