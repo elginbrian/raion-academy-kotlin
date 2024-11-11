@@ -94,17 +94,7 @@ Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa memba
 - **Video** : (letakkan link video disini)
 
 :::
-
-::: details Benefit Mengerjakan Final Project 🎁
-
 <br>
-
-##### Best Team 🤝
-
-- Tim dengan hasil akhir project paling bagus bakal dapat hadiah **duit**. Siapa yang nggak mau, kan?
-- Tiap anggota dari best team juga bakal **ditandain** pas open recruitment Raion divisi programmer apps nanti.
-
-:::
 
 <!-- ## Explore Lebih Lanjut! 📺
 

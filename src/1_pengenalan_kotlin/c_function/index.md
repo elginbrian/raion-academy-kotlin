@@ -1,7 +1,7 @@
 ---
 next:
   text: "Pemrograman Berorientasi Objek (OOP) di Kotlin"
-  link: "./d_oop"
+  link: "../../d_oop"
 ---
 
 # Function di Kotlin

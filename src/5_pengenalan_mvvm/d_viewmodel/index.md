@@ -1,7 +1,7 @@
 ---
 next:
   text: "Dependency Injection"
-  link: "./e_di"
+  link: "../../e_di"
 ---
 
 # Penjelasan tentang ViewModel, Cold Flow, dan Hot Flow

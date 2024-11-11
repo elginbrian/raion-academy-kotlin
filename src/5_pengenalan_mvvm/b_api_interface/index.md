@@ -1,7 +1,7 @@
 ---
 next:
   text: "Repository Pattern"
-  link: "./c_repository"
+  link: "../../c_repository"
 ---
 
 # API Interface dengan Retrofit

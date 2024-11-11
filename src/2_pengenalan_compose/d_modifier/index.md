@@ -1,7 +1,7 @@
 ---
 next:
   text: "Material Design Components di Jetpack Compose"
-  link: "./e_material_design"
+  link: "../../e_material_design"
 ---
 
 # Modifiers di Jetpack Compose

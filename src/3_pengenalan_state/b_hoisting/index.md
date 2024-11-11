@@ -1,7 +1,7 @@
 ---
 next:
   text: "UI Events dalam Jetpack Compose"
-  link: "./c_ui_event"
+  link: "../../c_ui_event"
 ---
 
 # Hoisting dalam Jetpack Compose

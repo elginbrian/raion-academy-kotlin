@@ -1,7 +1,7 @@
 ---
 next:
   text: "Passing Data"
-  link: "./b_passing_data"
+  link: "../../b_passing_data"
 ---
 
 # Setup Navigation dalam Jetpack Compose

@@ -1,7 +1,7 @@
 ---
 next:
   text: "API Interface dengan Retrofit"
-  link: "./b_api_interface"
+  link: "../../b_api_interface"
 ---
 
 # Pengertian MVVM

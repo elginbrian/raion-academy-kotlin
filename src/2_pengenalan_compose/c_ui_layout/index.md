@@ -1,7 +1,7 @@
 ---
 next:
   text: "Modifiers di Jetpack Compose"
-  link: "./d_modifier"
+  link: "../../d_modifier"
 ---
 
 # UI Layouts di Jetpack Compose

@@ -1,7 +1,7 @@
 ---
 next:
   text: "UI Layouts di Jetpack Compose"
-  link: "./c_ui_layout"
+  link: "../../c_ui_layout"
 ---
 
 # Composable Function di Jetpack Compose

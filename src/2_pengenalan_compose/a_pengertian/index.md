@@ -1,7 +1,7 @@
 ---
 next:
   text: "Composable Function di Jetpack Compose"
-  link: "./b_composable"
+  link: "../../b_composable"
 ---
 
 # Pengertian dan Sejarah Jetpack Compose

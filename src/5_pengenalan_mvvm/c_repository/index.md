@@ -1,7 +1,7 @@
 ---
 next:
   text: "ViewModel Pattern"
-  link: "./d_viewmodel"
+  link: "../../d_viewmodel"
 ---
 
 # Repository Pattern
