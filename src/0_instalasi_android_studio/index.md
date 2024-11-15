@@ -8,8 +8,11 @@ next:
 
 ## Video Tutorial
 
-<iframe src="https://drive.google.com/file/d/15EEDuk6vjfNonlM8-h6Y8zUysQL0jPds/preview" 
-        width="640" height="360" style="border: 0;" allow="autoplay"></iframe>
+<div style="position: relative; width: 100%; padding-top: 56.25%; height: 0; overflow: hidden;">
+    <iframe src="https://drive.google.com/file/d/15EEDuk6vjfNonlM8-h6Y8zUysQL0jPds/preview" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+            allow="autoplay"></iframe>
+</div>
 
 ## Windows
 
