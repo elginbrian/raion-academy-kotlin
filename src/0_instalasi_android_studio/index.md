@@ -8,7 +8,8 @@ next:
 
 ## Video Tutorial
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/15EEDuk6vjfNonlM8-h6Y8zUysQL0jPds/preview" 
+        width="640" height="360" style="border: 0;" allow="autoplay"></iframe>
 
 ## Windows
 

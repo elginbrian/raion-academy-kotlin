@@ -49,7 +49,7 @@ features:
     link: ./src/5_pengenalan_mvvm/a_pengertian
 ---
 
-<br>
+<!-- <br>
 
 ::: tip FINAL PROJECT 🌟
 Selamat datang di tahap akhir perjalanan Raion Academy! Di sini, kamu akan menemukan ketentuan dan benefit dari mengerjakan project akhirmu. Pastikan kamu membaca persyaratannya dengan teliti dan jangan lupa mengumpulkan proyekmu tepat waktu, ya!
@@ -93,7 +93,7 @@ Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa memba
 - **Tugas** : Buat `DetailScreen` produk yang menunjukkan informasi lengkap dan tambahkan navigasi antara `HomeScreen` dan `DetailScreen`.
 - **Video** : (letakkan link video disini)
 
-:::
+::: -->
 <br>
 
 <!-- ## Explore Lebih Lanjut! 📺
