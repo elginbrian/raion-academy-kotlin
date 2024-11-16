@@ -49,10 +49,10 @@ features:
     link: ./src/5_pengenalan_mvvm/a_pengertian
 ---
 
-<!-- <br>
+<br>
 
 ::: tip FINAL PROJECT 🌟
-Selamat datang di tahap akhir perjalanan Raion Academy! Di sini, kamu akan menemukan ketentuan dan benefit dari mengerjakan project akhirmu. Pastikan kamu membaca persyaratannya dengan teliti dan jangan lupa mengumpulkan proyekmu tepat waktu, ya!
+Selamat datang di tahap akhir perjalanan Raion Academy! Di sini, kamu akan menemukan ketentuan dari mengerjakan project akhirmu. Pastikan kamu membaca persyaratannya dengan teliti dan jangan lupa mengumpulkan proyekmu tepat waktu, ya!
 :::
 
 ::: details Ketentuan Final Project 📄
@@ -63,7 +63,7 @@ Selamat datang di tahap akhir perjalanan Raion Academy! Di sini, kamu akan menem
 
 ##### Deskripsi
 
-Aplikasi belanja yang memudahkan pengguna untuk melihat produk menggunakan **Fake Store API**.
+Aplikasi belanja yang memudahkan pengguna untuk melihat produk yang tersedia.
 
 ##### Latar Belakang
 
@@ -75,28 +75,27 @@ Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa memba
 
 <br>
 
-##### Level 1: Layout Sederhana (5 Point)
+##### Level 1: Layout Sederhana (Easy)
 
 - **Kasus** : Alex ingin melihat daftar produk dengan tampilan yang menarik.
 - **Tugas** : Buat halaman awal aplikasi yang sederhana dengan nama `HomeScreen`, yang hanya menampilkan nama dan gambar produk tanpa interaksi apapun.
-- **Video** : (letakkan link video disini)
+- **Video** : [Klik disini untuk melihat video](https://drive.google.com/file/d/1MDofEjpawrBx1pJn_QNr-bqUx3JIejdM/view?usp=sharing)
 
-##### Level 2: State Management (10 Point)
+##### Level 2: State Management (Medium)
 
 - **Kasus** : Setelah melihat daftar produk, Alex ingin bisa menambahkan produk ke dalam keranjang belanja.
 - **Tugas** : Tambahkan `state management` untuk mengelola jumlah produk yang ditambahkan ke keranjang, sehingga pengalaman belanja jadi lebih interaktif.
-- **Video** : (letakkan link video disini)
+- **Video** : [Klik disini untuk melihat video](https://drive.google.com/file/d/1f_PC5KmbJU76I_stqbYhibs66qDreKwk/view?usp=sharing)
 
-##### Level 3: Navigasi Antar Layar (15 Point)
+##### Level 3: Navigasi Antar Layar (Hard)
 
 - **Kasus** : Alex ingin tahu lebih banyak tentang produk yang menarik perhatiannya.
 - **Tugas** : Buat `DetailScreen` produk yang menunjukkan informasi lengkap dan tambahkan navigasi antara `HomeScreen` dan `DetailScreen`.
-- **Video** : (letakkan link video disini)
+- **Video** : [Klik disini untuk melihat video](https://drive.google.com/file/d/1-JFzyE7FKUNllGy8NFANzNeKWW2khPED/view?usp=sharing)
 
-::: -->
-<br>
+:::
 
-<!-- ## Explore Lebih Lanjut! 📺
+## Explore Lebih Lanjut! 📺
 
 <div class="video-container">
   <iframe width="300" height="170" src="https://www.youtube.com/embed/6_wK_Ud8--0" frameborder="0" allowfullscreen></iframe>
@@ -124,7 +123,7 @@ Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa memba
 
 </style>
 
-<hr> -->
+<hr>
 
 # Connect with us!
 
